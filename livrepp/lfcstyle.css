@@ -1,0 +1,218 @@
+body{
+    background-color:#DC0714;
+}
+header{
+
+  
+    display: flex;
+    gap: 12em;
+}
+ h5{
+    margin: 0;
+    padding: 0;
+}  
+
+#logo{
+    margin-top:2% ;
+    margin-left: 10%;
+}
+.icon-persone{
+ 
+  margin-bottom: 25px;
+  margin-left: 5px;
+}
+li span{
+    color: white;
+   
+    border-left: solid 1px ;
+}
+
+p:hover{
+    margin-bottom: 25px;
+}
+ 
+
+
+
+  
+  
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 5%;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px;
+   font-size: small;
+    margin: 0;
+  
+     
+}
+
+
+#headlins{
+    
+    margin-left: 5%;
+    padding: 5px;
+    
+    color: white;
+    border-radius:30% 25%;
+    background-color: #B71515;
+    
+}  
+section header{
+     margin-top: 3.5%;
+    display: flex;
+     gap: 75%;
+}
+#news{
+    display: flex;
+    
+}
+.raw:hover{
+   margin-left: 6px;
+    }
+#news a{color: white;
+text-decoration: none;
+margin: 0;
+padding: 0;
+}
+
+ 
+article{
+    margin-top: 3.5%;
+    display: flex;
+    gap: 15%;
+    width: 30%;
+}
+ aside p{
+    
+    color: white;
+  
+}
+span{font-size: x-small ;
+color: rgb(226, 223, 223);}
+aside:hover{
+    background-color: #B71515;
+}
+aside{
+    border-bottom: solid white 1px;
+}
+ .section2 {
+    border: solid white 1px;
+    margin-top: 5%;
+    width: 50%;
+    
+    
+}
+
+.section2 header{
+    
+    display: flex;
+    gap: 23em;
+}
+.section2  h4{
+   
+    margin: 0;
+    color: white;
+    font-size: 1em;
+}
+.section2 header p{
+   color: rgb(247, 230, 230);
+   margin-bottom: 3px;
+}
+#bottom_header{
+    margin-top: 15%;
+    margin-left: 2%;
+    border-bottom: solid white 1px;
+    
+    margin-bottom: 2%;
+    width: 80%;
+    display: flex;
+    gap: 75%;
+   
+}
+#les_logo{
+   display: flex;
+   gap: 20%;
+}
+
+
+
+
+.aside2 span{
+   
+    width: 48px;
+    text-align: center;
+    padding: 4px;
+    border-radius: 100% ;
+    background-color: white;
+    font-size: 24px;
+    color: black;
+}
+.aside2 h2{
+        display: flex;
+        gap: 15%;
+        margin-left: 15%;
+       
+        font-size: 1em;
+        color: white;
+}
+.aside2 img{
+    border-radius: 50%;
+    margin-bottom: 5%;
+    
+}
+
+#bottom_ajax{
+
+    margin-left: 2%;
+    margin-bottom: 2%;
+    
+    display: flex;
+    gap: 54%;
+}
+.logo2{
+    display: flex;
+}
+.logo2 h2{
+   
+    margin-top: 15%;
+    margin-left: 10%;
+    font-size: 1em;
+}
+.aside2 article{
+    background-color: black;
+    width: 65%;
+    
+    margin-left: 10%;
+    margin-bottom: 4%;
+}
+.aside2 p{
+   margin-left: 3%;
+   margin-bottom: 10%;
+}
+.aside2 p::first-letter{
+    font-size: 2em;
+   
+}
+.element_artic{
+    display: flex;
+    gap:10%;
+}
+.element_artic img{
+     margin-top: 15%;
+     
+    
+}
+.aside2:hover{
+    background-color: #DC0714;
+}
